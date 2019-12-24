@@ -18,7 +18,7 @@ spring:
       min-evictable-idle-time-millis: 300000
       web-stat-filter:
         exclusions: '*.js,*.gif,*.jpg,*.png,*.css,*.ico,/druid/*'
-      stat-view-servlet:
+#       stat-view-servlet:
 #         allow:
 #         login-username: admin
 #         login-password: admin
