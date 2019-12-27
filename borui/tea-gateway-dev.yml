@@ -14,7 +14,7 @@ zuul:
       service-id: mb-consume
     pay:
       path: /api-pay/**
-      service-id: mb-pay
+      service-id: mb-pay-server
     # 认证
     sso:
       path: /api-sso/**
