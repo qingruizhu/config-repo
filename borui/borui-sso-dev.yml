@@ -3,5 +3,5 @@ spring:
   datasource:
     # &serverTimezone=Asia/Shanghai 解决插入数据库时间和 new date() 时间不一致
     # &useSSL=false 批量修改设置
-    url: jdbc:mysql://192.168.10.81:3306/brty_test_admin?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://192.168.10.72:3306/brty_test_admin?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
 
